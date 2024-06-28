@@ -6,12 +6,14 @@ This repo contains leetcode problems and it's solution
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamindrajeet/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamindrajeet/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
@@ -23,6 +25,7 @@ This repo contains leetcode problems and it's solution
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
