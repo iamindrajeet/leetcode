@@ -16,6 +16,7 @@ This repo contains leetcode problems and it's solution
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Greedy
 |  |
@@ -82,4 +84,8 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/iamindrajeet/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
