@@ -42,7 +42,7 @@ Explanation: The tabulation solution eliminates recursion and uses a bottom-up a
 // }
 
 /*
-Approach 4: Space Optimization
+Approach 3: Space Optimization
 Explanation: The space-optimized solution further reduces the space complexity by using only two variables (prev and curr) instead of an entire DP table. It initializes prev and curr to 1 since there is only one way to reach the base cases (0 and 1 steps). Then, in each iteration, it updates prev and curr by shifting their values. curr becomes the sum of the previous two values, and prev stores the previous value of curr.
 
 */
