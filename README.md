@@ -19,6 +19,7 @@ This repo contains leetcode problems and it's solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/iamindrajeet/leetcode/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ This repo contains leetcode problems and it's solution
 | [0070-climbing-stairs](https://github.com/iamindrajeet/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamindrajeet/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/iamindrajeet/leetcode/tree/master/0198-house-robber) |
 ## Depth-First Search
 |  |
 | ------- |
