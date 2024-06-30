@@ -28,6 +28,7 @@ This repo contains leetcode problems and it's solution
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamindrajeet/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamindrajeet/leetcode/tree/master/0027-remove-element) |
@@ -84,6 +85,7 @@ This repo contains leetcode problems and it's solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamindrajeet/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
@@ -124,6 +126,7 @@ This repo contains leetcode problems and it's solution
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamindrajeet/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
