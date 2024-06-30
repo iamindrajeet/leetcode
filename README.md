@@ -12,6 +12,7 @@ This repo contains leetcode problems and it's solution
 | [0045-jump-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/iamindrajeet/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/iamindrajeet/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/iamindrajeet/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@ This repo contains leetcode problems and it's solution
 | [0045-jump-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/iamindrajeet/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/iamindrajeet/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamindrajeet/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -132,4 +134,8 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/iamindrajeet/leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
