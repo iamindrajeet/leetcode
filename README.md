@@ -22,6 +22,7 @@ This repo contains leetcode problems and it's solution
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/iamindrajeet/leetcode/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ This repo contains leetcode problems and it's solution
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/iamindrajeet/leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
 ## Depth-First Search
 |  |
@@ -110,6 +112,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
