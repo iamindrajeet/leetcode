@@ -9,6 +9,7 @@ This repo contains leetcode problems and it's solution
 | [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamindrajeet/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/iamindrajeet/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
@@ -120,6 +121,7 @@ This repo contains leetcode problems and it's solution
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/iamindrajeet/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
