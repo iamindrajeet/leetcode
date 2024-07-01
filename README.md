@@ -26,6 +26,7 @@ This repo contains leetcode problems and it's solution
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
+| [1293-three-consecutive-odds](https://github.com/iamindrajeet/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
