@@ -32,6 +32,7 @@ This repo contains leetcode problems and it's solution
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/iamindrajeet/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ This repo contains leetcode problems and it's solution
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@ This repo contains leetcode problems and it's solution
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Greedy
 |  |
@@ -74,6 +77,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +138,7 @@ This repo contains leetcode problems and it's solution
 | [0162-find-peak-element](https://github.com/iamindrajeet/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
