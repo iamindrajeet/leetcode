@@ -35,6 +35,7 @@ This repo contains leetcode problems and it's solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1293-three-consecutive-odds](https://github.com/iamindrajeet/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This repo contains leetcode problems and it's solution
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +98,7 @@ This repo contains leetcode problems and it's solution
 | [0066-plus-one](https://github.com/iamindrajeet/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/iamindrajeet/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,4 +181,8 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamindrajeet/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
