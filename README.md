@@ -23,6 +23,7 @@ This repo contains leetcode problems and it's solution
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamindrajeet/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/iamindrajeet/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/iamindrajeet/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iamindrajeet/leetcode/tree/master/0162-find-peak-element) |
@@ -69,6 +70,7 @@ This repo contains leetcode problems and it's solution
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/iamindrajeet/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/iamindrajeet/leetcode/tree/master/0135-candy) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
