@@ -23,6 +23,7 @@ This repo contains leetcode problems and it's solution
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamindrajeet/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/iamindrajeet/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/iamindrajeet/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/iamindrajeet/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
@@ -90,6 +91,7 @@ This repo contains leetcode problems and it's solution
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/iamindrajeet/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -219,4 +221,8 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/iamindrajeet/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
