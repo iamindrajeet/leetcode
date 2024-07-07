@@ -7,6 +7,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/iamindrajeet/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamindrajeet/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamindrajeet/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/iamindrajeet/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamindrajeet/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -57,6 +59,7 @@ This repo contains leetcode problems and it's solution
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iamindrajeet/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/iamindrajeet/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
