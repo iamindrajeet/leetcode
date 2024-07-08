@@ -6,6 +6,7 @@ This repo contains leetcode problems and it's solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamindrajeet/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/iamindrajeet/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamindrajeet/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -92,6 +93,7 @@ This repo contains leetcode problems and it's solution
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamindrajeet/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/iamindrajeet/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
