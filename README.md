@@ -59,6 +59,7 @@ This repo contains leetcode problems and it's solution
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +181,7 @@ This repo contains leetcode problems and it's solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0097-interleaving-string](https://github.com/iamindrajeet/leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
+| [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
