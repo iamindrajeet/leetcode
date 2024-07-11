@@ -186,6 +186,7 @@ This repo contains leetcode problems and it's solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0097-interleaving-string](https://github.com/iamindrajeet/leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamindrajeet/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Trie
@@ -247,5 +248,6 @@ This repo contains leetcode problems and it's solution
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamindrajeet/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
