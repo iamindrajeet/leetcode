@@ -16,38 +16,38 @@ Space Complexity
 O(n): We use a HashSet to store all elements of the array.
 
 */
-// class Solution {
-//     public int longestConsecutive(int[] nums) {
-//         Set<Integer> set = new HashSet<>();
+class Solution {
+    public int longestConsecutive(int[] nums) {
+        Set<Integer> set = new HashSet<>();
         
-//         // Add all elements to the set
-//         for (int num : nums) {
-//             set.add(num);
-//         }
+        // Add all elements to the set
+        for (int num : nums) {
+            set.add(num);
+        }
         
-//         int longestConsecutiveSeqLen = 0;
+        int longestConsecutiveSeqLen = 0;
         
-//         // Iterate through each number in the array
-//         for (int num : nums) {
-//             // Check if this is the start of a sequence
-//             if (!set.contains(num - 1)) {
-//                 int currentNum = num;
-//                 int currentConsecutiveSeqLen = 1;
+        // Iterate through each number in the array
+        for (int num : nums) {
+            // Check if this is the start of a sequence
+            if (!set.contains(num - 1)) {
+                int currentNum = num;
+                int currentConsecutiveSeqLen = 1;
                 
-//                 // Count the length of the sequence
-//                 while (set.contains(currentNum + 1)) {
-//                     currentNum++;
-//                     currentConsecutiveSeqLen++;
-//                 }
+                // Count the length of the sequence
+                while (set.contains(currentNum + 1)) {
+                    currentNum++;
+                    currentConsecutiveSeqLen++;
+                }
                 
-//                 // Update the longest sequence length
-//                 longestConsecutiveSeqLen = Math.max(longestConsecutiveSeqLen, currentConsecutiveSeqLen);
-//             }
-//         }
+                // Update the longest sequence length
+                longestConsecutiveSeqLen = Math.max(longestConsecutiveSeqLen, currentConsecutiveSeqLen);
+            }
+        }
         
-//         return longestConsecutiveSeqLen;
-//     }
-// }
+        return longestConsecutiveSeqLen;
+    }
+}
 
 /*
 
@@ -67,42 +67,42 @@ Space Complexity (SC): O(1)
 
 */
 
-class Solution {
-    public int longestConsecutive(int[] nums) {
-        // Handle empty array
-        if (nums.length == 0) {
-            return 0;
-        }
+// class Solution {
+//     public int longestConsecutive(int[] nums) {
+//         // Handle empty array
+//         if (nums.length == 0) {
+//             return 0;
+//         }
 
-        // Sort the array
-        Arrays.sort(nums);
+//         // Sort the array
+//         Arrays.sort(nums);
 
-        // Initialize the length of the longest consecutive sequence
-        int longestConsecutiveSeqLen = 1;
-        // Initialize the current sequence length
-        int count = 1;
+//         // Initialize the length of the longest consecutive sequence
+//         int longestConsecutiveSeqLen = 1;
+//         // Initialize the current sequence length
+//         int count = 1;
 
-        // Iterate through the sorted array
-        for (int i = 0; i < nums.length - 1; i++) {
-            int currEle = nums[i];
-            int nextEle = nums[i + 1];
+//         // Iterate through the sorted array
+//         for (int i = 0; i < nums.length - 1; i++) {
+//             int currEle = nums[i];
+//             int nextEle = nums[i + 1];
 
-            // If the next element is consecutive, increment the count
-            if (currEle + 1 == nextEle) {
-                count++;
-            }
-            // If the next element is the same as the current element, skip it
-            else if (currEle != nextEle) {
-                // Reset the count if the next element is not consecutive
-                count = 1;
-            }
+//             // If the next element is consecutive, increment the count
+//             if (currEle + 1 == nextEle) {
+//                 count++;
+//             }
+//             // If the next element is the same as the current element, skip it
+//             else if (currEle != nextEle) {
+//                 // Reset the count if the next element is not consecutive
+//                 count = 1;
+//             }
 
-            // Update the length of the longest consecutive sequence
-            longestConsecutiveSeqLen = Math.max(count, longestConsecutiveSeqLen);
-        }
+//             // Update the length of the longest consecutive sequence
+//             longestConsecutiveSeqLen = Math.max(count, longestConsecutiveSeqLen);
+//         }
 
-        return longestConsecutiveSeqLen;
-    }
-}
+//         return longestConsecutiveSeqLen;
+//     }
+// }
 
 
