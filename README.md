@@ -75,6 +75,7 @@ This repo contains leetcode problems and it's solution
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/iamindrajeet/leetcode/tree/master/0506-relative-ranks) |
+| [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2846-robot-collisions](https://github.com/iamindrajeet/leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -108,6 +109,7 @@ This repo contains leetcode problems and it's solution
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
@@ -190,6 +192,7 @@ This repo contains leetcode problems and it's solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0097-interleaving-string](https://github.com/iamindrajeet/leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
+| [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamindrajeet/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -254,6 +257,7 @@ This repo contains leetcode problems and it's solution
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamindrajeet/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
