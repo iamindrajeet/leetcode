@@ -47,33 +47,31 @@ class Solution {
     public int[] sortJumbled(int[] mapping, int[] nums) {
         // List to store pairs of mapped value and original index
         List<int[]> storePairs = new ArrayList<>();
-        
+
         for (int i = 0; i < nums.length; i++) {
             // Convert current value to String
             String number = String.valueOf(nums[i]);
             StringBuilder formed = new StringBuilder();
-            
+
             // Map each digit of the number using the mapping array
             for (int j = 0; j < number.length(); j++) {
                 formed.append(mapping[number.charAt(j) - '0']);
             }
-            
+
             // Convert the mapped string to an integer
             int mappedValue = Integer.parseInt(formed.toString());
-            
+
             // Store the mapped value and original index as a pair
-            storePairs.add(new int[]{mappedValue, i});
+            storePairs.add(new int[] { mappedValue, i });
         }
 
-        // Sort the list based on the mapped values, and by the original indices if mapped values are equal
-        Collections.sort(storePairs, new Comparator<int[]>() {
-            @Override
-            public int compare(int[] o1, int[] o2) {
-                if (o1[0] == o2[0]) {
-                    return o1[1] - o2[1];
-                }
-                return o1[0] - o2[0];
+        // Sort the list based on the mapped values, and by the original indices if
+        // mapped values are equal
+        Collections.sort(storePairs, (int[] o1, int[] o2) -> {
+            if (o1[0] == o2[0]) {
+                return o1[1] - o2[1];
             }
+            return o1[0] - o2[0];
         });
 
         // Prepare the result array using the original indices
@@ -81,7 +79,7 @@ class Solution {
         for (int i = 0; i < storePairs.size(); i++) {
             answer[i] = nums[storePairs.get(i)[1]];
         }
-        
+
         return answer;
     }
 }
