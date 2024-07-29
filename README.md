@@ -49,6 +49,7 @@ This repo contains leetcode problems and it's solution
 | [1333-sort-the-jumbled-numbers](https://github.com/iamindrajeet/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamindrajeet/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/iamindrajeet/leetcode/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamindrajeet/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamindrajeet/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -174,6 +175,7 @@ This repo contains leetcode problems and it's solution
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1511-count-number-of-teams](https://github.com/iamindrajeet/leetcode/tree/master/1511-count-number-of-teams) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,4 +344,8 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/iamindrajeet/leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
