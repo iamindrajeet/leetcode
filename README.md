@@ -42,6 +42,7 @@ This repo contains leetcode problems and it's solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/iamindrajeet/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -145,6 +146,7 @@ This repo contains leetcode problems and it's solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/iamindrajeet/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -175,6 +177,7 @@ This repo contains leetcode problems and it's solution
 | [0070-climbing-stairs](https://github.com/iamindrajeet/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/iamindrajeet/leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/iamindrajeet/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -279,6 +282,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0064-minimum-path-sum](https://github.com/iamindrajeet/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/iamindrajeet/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamindrajeet/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamindrajeet/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
