@@ -14,6 +14,7 @@ This repo contains leetcode problems and it's solution
 | [0033-search-in-rotated-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamindrajeet/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
@@ -77,6 +78,7 @@ This repo contains leetcode problems and it's solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamindrajeet/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/iamindrajeet/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -186,6 +188,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamindrajeet/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
@@ -342,6 +345,7 @@ This repo contains leetcode problems and it's solution
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamindrajeet/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
@@ -392,4 +396,8 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/iamindrajeet/leetcode/tree/master/1511-count-number-of-teams) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
