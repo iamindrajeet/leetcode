@@ -24,6 +24,7 @@ This repo contains leetcode problems and it's solution
 | [0066-plus-one](https://github.com/iamindrajeet/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/iamindrajeet/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/iamindrajeet/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamindrajeet/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iamindrajeet/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -401,6 +402,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamindrajeet/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/iamindrajeet/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
@@ -430,4 +432,8 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamindrajeet/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
