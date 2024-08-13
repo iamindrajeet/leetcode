@@ -221,6 +221,7 @@ This repo contains leetcode problems and it's solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/iamindrajeet/leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/iamindrajeet/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -233,6 +234,7 @@ This repo contains leetcode problems and it's solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/iamindrajeet/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
@@ -376,6 +378,7 @@ This repo contains leetcode problems and it's solution
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/iamindrajeet/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -392,6 +395,7 @@ This repo contains leetcode problems and it's solution
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/iamindrajeet/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
