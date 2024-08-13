@@ -15,6 +15,7 @@ This repo contains leetcode problems and it's solution
 | [0033-search-in-rotated-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamindrajeet/leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/iamindrajeet/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iamindrajeet/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/0045-jump-game-ii) |
@@ -401,6 +402,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamindrajeet/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/iamindrajeet/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iamindrajeet/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0078-subsets) |
 ## Merge Sort
