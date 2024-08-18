@@ -148,6 +148,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/iamindrajeet/leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamindrajeet/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
@@ -163,6 +164,7 @@ This repo contains leetcode problems and it's solution
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamindrajeet/leetcode/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
@@ -197,6 +199,7 @@ This repo contains leetcode problems and it's solution
 | [0066-plus-one](https://github.com/iamindrajeet/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/iamindrajeet/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/iamindrajeet/leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -219,6 +222,7 @@ This repo contains leetcode problems and it's solution
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/iamindrajeet/leetcode/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
