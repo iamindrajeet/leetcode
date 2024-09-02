@@ -1,5 +1,17 @@
 /*
+- Approach : Making use of remainder
 
+1. Recognizing the Cycle
+The distribution of chalk forms a repeating cycle. If we have enough chalk for multiple complete cycles, we don't need to simulate each one individually. This observation leads us to use modular arithmetic to "fast-forward" through complete cycles.
+
+2. Calculating Total Chalk per Cycle
+By summing the chalk requirements of all students, we can determine how much chalk is needed for one complete cycle. This sum is crucial for our modular arithmetic approach.
+
+3. Using Modular Arithmetic
+Once we know the total chalk per cycle, we can use the modulus operator to determine how much chalk remains after all complete cycles. This remainder is what we'll focus on in our final calculation.
+
+4. Simulating the Final (Partial) Cycle
+With the remaining chalk after complete cycles, we simulate the distribution one last time to find the student who will run out.
 
 - Time Complexity (TC):
 Step 1: Calculating totalChalkSum takes O(n) time, where n is the number of students.
