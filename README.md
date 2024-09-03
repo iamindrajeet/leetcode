@@ -52,6 +52,7 @@ This repo contains leetcode problems and it's solution
 | [0506-relative-ranks](https://github.com/iamindrajeet/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/iamindrajeet/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/iamindrajeet/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/iamindrajeet/leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -364,6 +365,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamindrajeet/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/iamindrajeet/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamindrajeet/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Prefix Sum
