@@ -45,6 +45,7 @@ This repo contains leetcode problems and it's solution
 | [0217-contains-duplicate](https://github.com/iamindrajeet/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iamindrajeet/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/iamindrajeet/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -94,6 +95,7 @@ This repo contains leetcode problems and it's solution
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/iamindrajeet/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
