@@ -53,6 +53,7 @@ This repo contains leetcode problems and it's solution
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/iamindrajeet/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/iamindrajeet/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/iamindrajeet/leetcode/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/iamindrajeet/leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -401,6 +402,7 @@ This repo contains leetcode problems and it's solution
 | [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/iamindrajeet/leetcode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/iamindrajeet/leetcode/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamindrajeet/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/iamindrajeet/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -463,6 +465,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/iamindrajeet/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/iamindrajeet/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
