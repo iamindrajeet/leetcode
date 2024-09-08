@@ -53,6 +53,7 @@ This repo contains leetcode problems and it's solution
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/iamindrajeet/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/iamindrajeet/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/iamindrajeet/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/iamindrajeet/leetcode/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/iamindrajeet/leetcode/tree/master/0890-lemonade-change) |
@@ -381,6 +382,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iamindrajeet/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/iamindrajeet/leetcode/tree/master/0724-find-pivot-index) |
 | [1240-stone-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String Matching
