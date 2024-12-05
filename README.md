@@ -109,6 +109,7 @@ This repo contains leetcode problems and it's solution
 | [0392-is-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/iamindrajeet/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -338,6 +339,7 @@ This repo contains leetcode problems and it's solution
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/iamindrajeet/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/iamindrajeet/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/iamindrajeet/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/iamindrajeet/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
