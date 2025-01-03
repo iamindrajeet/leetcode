@@ -64,6 +64,7 @@ This repo contains leetcode problems and it's solution
 | [1196-filling-bookcase-shelves](https://github.com/iamindrajeet/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/iamindrajeet/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/iamindrajeet/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/iamindrajeet/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/iamindrajeet/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -126,6 +127,7 @@ This repo contains leetcode problems and it's solution
 | [0539-minimum-time-difference](https://github.com/iamindrajeet/leetcode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/iamindrajeet/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/iamindrajeet/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -187,6 +189,7 @@ This repo contains leetcode problems and it's solution
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iamindrajeet/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/iamindrajeet/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/iamindrajeet/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
