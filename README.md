@@ -85,6 +85,7 @@ This repo contains leetcode problems and it's solution
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamindrajeet/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/iamindrajeet/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2465-shifting-letters-ii](https://github.com/iamindrajeet/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/iamindrajeet/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/iamindrajeet/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -345,6 +346,7 @@ This repo contains leetcode problems and it's solution
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/iamindrajeet/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/iamindrajeet/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/iamindrajeet/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/iamindrajeet/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -412,6 +414,7 @@ This repo contains leetcode problems and it's solution
 | [1833-find-the-highest-altitude](https://github.com/iamindrajeet/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamindrajeet/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/iamindrajeet/leetcode/tree/master/2465-shifting-letters-ii) |
 ## String Matching
 |  |
 | ------- |
