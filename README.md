@@ -95,6 +95,7 @@ This repo contains leetcode problems and it's solution
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iamindrajeet/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2727-number-of-senior-citizens](https://github.com/iamindrajeet/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/iamindrajeet/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/iamindrajeet/leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/iamindrajeet/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/iamindrajeet/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -552,6 +553,7 @@ This repo contains leetcode problems and it's solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamindrajeet/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iamindrajeet/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/iamindrajeet/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Game Theory
 |  |
 | ------- |
