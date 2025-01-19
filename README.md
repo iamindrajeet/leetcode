@@ -50,6 +50,7 @@ This repo contains leetcode problems and it's solution
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/iamindrajeet/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/iamindrajeet/leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/iamindrajeet/leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -180,6 +181,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/iamindrajeet/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/iamindrajeet/leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamindrajeet/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
@@ -302,6 +304,7 @@ This repo contains leetcode problems and it's solution
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/iamindrajeet/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/iamindrajeet/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/iamindrajeet/leetcode/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/iamindrajeet/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -392,6 +395,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0064-minimum-path-sum](https://github.com/iamindrajeet/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/iamindrajeet/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/iamindrajeet/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
