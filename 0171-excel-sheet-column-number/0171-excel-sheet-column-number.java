@@ -1,3 +1,11 @@
+/**
+Time Complexity:
+T.C: O(n), where n is the length of columnTitle.
+The loop iterates through the characters of columnTitle.
+
+Space Complexity:
+S.C: O(1), as only a fixed amount of space is used regardless of input size.
+ */
 class Solution {
     public int titleToNumber(String columnTitle) {
         int columnNumber = 0; // Initialize the result variable to store the column number
