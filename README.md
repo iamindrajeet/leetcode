@@ -86,6 +86,7 @@ This repo contains leetcode problems and it's solution
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iamindrajeet/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2145-grid-game](https://github.com/iamindrajeet/leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/iamindrajeet/leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamindrajeet/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -407,6 +408,7 @@ This repo contains leetcode problems and it's solution
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamindrajeet/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamindrajeet/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2145-grid-game](https://github.com/iamindrajeet/leetcode/tree/master/2145-grid-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/iamindrajeet/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/iamindrajeet/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Queue
@@ -459,6 +461,7 @@ This repo contains leetcode problems and it's solution
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iamindrajeet/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamindrajeet/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/iamindrajeet/leetcode/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/iamindrajeet/leetcode/tree/master/2465-shifting-letters-ii) |
 ## String Matching
 |  |
