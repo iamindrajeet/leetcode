@@ -52,23 +52,32 @@ Space Complexity: O(1)
 
 The algorithm uses a constant amount of extra space, including variables for firstRowSum, secondRowSum, and minimumSum. No additional data structures proportional to the size of the input are used. Thus, the overall space complexity is O(1).
 */
-
 class Solution {
     public long gridGame(int[][] grid) {
-         // Calculate the sum of all the elements for the first row
+        // Calculate the sum of all the elements in the first row
         long firstRowSum = 0;
         for (int num : grid[0]) {
             firstRowSum += num;
         }
+
+        // Initialize the sum of the second row as 0
         long secondRowSum = 0;
+        // Variable to track the minimum possible maximum sum after the robot's first move
         long minimumSum = Long.MAX_VALUE;
 
-        for(int turnIndex = 0; turnIndex < grid[0].length; turnIndex++){
+        // Iterate through each column index representing a potential first robot move
+        for (int turnIndex = 0; turnIndex < grid[0].length; turnIndex++) {
+            // Update the first row's remaining sum after the robot skips this cell
             firstRowSum -= grid[0][turnIndex];
-            // Find the minimum maximum value out of firstRowSum and secondRowSum.
+
+            // Calculate the maximum of the remaining first row sum and the accumulated second row sum
             minimumSum = Math.min(minimumSum, Math.max(firstRowSum, secondRowSum));
+
+            // Add the current cell of the second row to its accumulated sum
             secondRowSum += grid[1][turnIndex];
         }
+
+        // Return the minimum possible maximum sum, ensuring the first robot's best strategy
         return minimumSum;
     }
 }
