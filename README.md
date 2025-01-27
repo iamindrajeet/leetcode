@@ -178,6 +178,7 @@ This repo contains leetcode problems and it's solution
 | [0547-number-of-provinces](https://github.com/iamindrajeet/leetcode/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/iamindrajeet/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/iamindrajeet/leetcode/tree/master/1558-course-schedule-iv) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/iamindrajeet/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Heap (Priority Queue)
@@ -304,6 +305,7 @@ This repo contains leetcode problems and it's solution
 | [1207-delete-nodes-and-return-forest](https://github.com/iamindrajeet/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/iamindrajeet/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/iamindrajeet/leetcode/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/iamindrajeet/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/iamindrajeet/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -318,12 +320,14 @@ This repo contains leetcode problems and it's solution
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/iamindrajeet/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/iamindrajeet/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/iamindrajeet/leetcode/tree/master/1876-map-of-highest-peak) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/iamindrajeet/leetcode/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/iamindrajeet/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/iamindrajeet/leetcode/tree/master/1558-course-schedule-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/iamindrajeet/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Counting Sort
 |  |
