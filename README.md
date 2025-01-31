@@ -42,6 +42,7 @@ This repo contains leetcode problems and it's solution
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/iamindrajeet/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/iamindrajeet/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iamindrajeet/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iamindrajeet/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -299,6 +300,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/iamindrajeet/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iamindrajeet/leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/iamindrajeet/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -315,6 +317,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/iamindrajeet/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/iamindrajeet/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iamindrajeet/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/iamindrajeet/leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/iamindrajeet/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -416,6 +419,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0064-minimum-path-sum](https://github.com/iamindrajeet/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/iamindrajeet/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/iamindrajeet/leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/iamindrajeet/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -494,6 +498,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iamindrajeet/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/iamindrajeet/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/iamindrajeet/leetcode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
