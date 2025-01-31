@@ -65,6 +65,7 @@ This repo contains leetcode problems and it's solution
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamindrajeet/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/iamindrajeet/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/iamindrajeet/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/1240-stone-game-ii) |
@@ -212,6 +213,7 @@ This repo contains leetcode problems and it's solution
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iamindrajeet/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0952-word-subsets) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamindrajeet/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/iamindrajeet/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/iamindrajeet/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -423,6 +425,7 @@ This repo contains leetcode problems and it's solution
 | [0407-trapping-rain-water-ii](https://github.com/iamindrajeet/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamindrajeet/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/iamindrajeet/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
