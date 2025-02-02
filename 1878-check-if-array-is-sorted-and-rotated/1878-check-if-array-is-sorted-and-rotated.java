@@ -111,25 +111,50 @@ Space Complexity: O(n)
 
 The algorithm uses an additional array sortedNums to store the sorted version of the input array, which requires O(n) space. No other significant data structures are used, so the overall space complexity is O(n).
 */
+// class Solution {
+
+//     public boolean check(int[] nums) {
+//         int size = nums.length;
+//         int[] sortedNums = Arrays.copyOf(nums, size);
+//         Arrays.sort(sortedNums);
+
+//         // Compare the original array with the sorted array, considering all possible rotations
+//         for(int rotationOffset = 0; rotationOffset < size; rotationOffset++) {
+//             boolean isMatch = true;
+//             for(int index = 0; index < size; index++) {
+//                 if(sortedNums[index] != nums[(rotationOffset + index) % size]) {
+//                     isMatch = false;
+//                     break;
+//                 }
+//             }
+//             if(isMatch)
+//                 return true;
+//         }
+//         return false;
+//     }
+// }
+
+
+/*
+Approach 3: finding the number of peaks
+
+T.C - O(n)
+S.C - O(1)
+*/
 class Solution {
 
     public boolean check(int[] nums) {
         int size = nums.length;
-        int[] sortedNums = Arrays.copyOf(nums, size);
-        Arrays.sort(sortedNums);
-
-        // Compare the original array with the sorted array, considering all possible rotations
-        for(int rotationOffset = 0; rotationOffset < size; rotationOffset++) {
-            boolean isMatch = true;
-            for(int index = 0; index < size; index++) {
-                if(sortedNums[index] != nums[(rotationOffset + index) % size]) {
-                    isMatch = false;
-                    break;
-                }
+        int peak = 0;
+        
+        // Check for at most one peak
+        for (int i = 0; i < size; i++) {
+            if (nums[i] > nums[(i + 1) % size]) {
+                peak++;
             }
-            if(isMatch)
-                return true;
         }
-        return false;
+        
+        // If there is at most one peak, return true
+        return peak <= 1;
     }
 }
