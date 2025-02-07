@@ -95,6 +95,60 @@ Note: The result array also contributes O(n) space, but since it is part of the 
 //     }
 // }
 
+/**
+Approach 2: Two Hash Maps
+Intuition
+The main challenge from the previous solution is identifying and addressing areas where large amounts of memory are used.
+
+A significant portion of our memory usage comes from the array of size limit + 1. When we look at the constraints, we can see that the value of limit can be extremely large, with the range 1 <= limit <= 10^9. Contrarily, the queries only range from 1 <= n <= 10^5, where n is the length of queries. As we navigate through the queries, we can see that not all of the ball labels are guaranteed to be accessed by the queries, leading to unnecessary memory usage.
+
+We can improve our storage efficiency by eliminating wasted space. Here, we need to choose a data structure that only allocates space as needed. Similar to how the colors are stored, we can utilize a hash map to store only the necessary labels accessed by the queries. By doing so, we can optimize the space complexity and prevent memory overuse.
+
+After making this adjustment, we can apply the same logic and procedure as the previous solution. With this space optimization, we can process and track the results from the queries while staying within the memory limit.
+
+Algorithm
+1. Initialize:
+    - an integer n, equal to the length of queries.
+    - an array result of length n, where result[i] denotes the number of distinct colors after the ith query.
+    - two hash maps:
+        a. colorMap, which stores the number of distinct colors after processing current query.
+        b. ballMap, which stores the distinct ball labels found when traversing queries and the current colors associated 
+        with them.
+2. Iterate from index 0 to n-1 to traverse the queries. For each query, query[i]:
+    - Initialize:
+        - an integer ball equal to query[i][0], denoting the current ball that will be colored.
+        - an integer color equal to query[i][1], denoting the color that the ball will be colored.
+    - If ball already exists in ballMap, meaning it is already colored:
+        - Check the existing color of ball, which will be labeled prevColor.
+        - Decrement the count of prevColor in colorMap.
+        - If the count becomes 0, remove prevColor from colorMap.
+    - Update ballMap[ball] to color.
+    - Increase the count of color in colorMap by one.
+    - Set result[i] to the current size of colorMap.
+3. Return the result array.
+
+Complexity Analysis
+Let n be the size of queries.
+
+Time Complexity: O(n)
+
+The algorithm iterates through each query exactly once, performing constant-time operations for each query.
+
+Specifically, for each query, it checks and updates the ballMap and colorMap, both of which are O(1) operations on average due to the use of hash maps.
+
+Therefore, the overall time complexity is linear in the number of queries, O(n).
+
+Note: The operations on the ballMap and colorMap (such as get, put, and remove) are considered O(1) on average due to the nature of hash maps.
+
+Space Complexity: O(n)
+
+The space complexity is determined by the ballMap and the colorMap.
+
+In the worst case, ballMap can store up to n distinct colors (if all queries introduce a new ball label), and the colorMap can store up to n distinct colors (if all queries introduce a new color). Therefore, the space complexity is O(2n), which simplifies to O(n).
+
+Note: The result array also contributes O(n) space, but since it is part of the output, it is typically not counted in the auxiliary space complexity. However, if we include it, the space complexity remains O(n).
+
+*/
 class Solution {
     public int[] queryResults(int limit, int[][] queries) {
         int n = queries.length;
