@@ -98,6 +98,7 @@ This repo contains leetcode problems and it's solution
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamindrajeet/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/iamindrajeet/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/iamindrajeet/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2448-count-number-of-bad-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/iamindrajeet/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/iamindrajeet/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
@@ -232,6 +233,7 @@ This repo contains leetcode problems and it's solution
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/iamindrajeet/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/iamindrajeet/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamindrajeet/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/iamindrajeet/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -258,6 +260,7 @@ This repo contains leetcode problems and it's solution
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/iamindrajeet/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iamindrajeet/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
@@ -280,6 +283,7 @@ This repo contains leetcode problems and it's solution
 | [1642-water-bottles](https://github.com/iamindrajeet/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/iamindrajeet/leetcode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/iamindrajeet/leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
