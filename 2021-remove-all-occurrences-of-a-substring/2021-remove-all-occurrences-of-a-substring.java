@@ -96,17 +96,6 @@ Although the algorithm does not explicitly use additional data structures, each 
  * 6. Reverse the order of result to correct the sequence of characters and
  * return it.
  * 
- * Helper method checkMatch(stk, part, partLength):
-
- * 1. Initialize a temporary stack temp and copy all characters from the original stack stk into temp.
- * 2. Use a for loop to iterate over part in reverse order, starting from index
- * partLength - 1 and ending at 0. For each character:
- * - Compare the current character of part with the top character of temp:
- * - If they do not match, return false.
- * - Else, remove the top character from temp.
- * 3. If all characters of part match the top characters of the stack in reverse
- * order, return true.
- * 
  * Complexity Analysis
  * Let n be the length of the string s, and m be the length of the substring
  * part.
@@ -160,16 +149,11 @@ class Solution {
     }
 
     private boolean checkMatch(Stack<Character> stack, String part, int partLength) {
-        Stack<Character> temp = new Stack<>();
-        temp.addAll(stack); // Copy the stack to avoid modifying the original
-
-        // Iterate through `part` from right to left (last character to first)
-        for (int partIndex = partLength - 1; partIndex >= 0; partIndex--) {
-            // If the current stack top doesn't match the corresponding `part` character,
-            // return false
-            if (temp.peek() != part.charAt(partIndex))
+        // Compare the top `partLength` characters in the stack with `part`
+        for (int i = 0; i < partLength; i++) {
+            if (stack.get(stack.size() - partLength + i) != part.charAt(i)) {
                 return false;
-            temp.pop();
+            }
         }
         return true; // Return true indicating `part` was found and removed
     }
