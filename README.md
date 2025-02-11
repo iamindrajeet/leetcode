@@ -65,6 +65,7 @@ This repo contains leetcode problems and it's solution
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/iamindrajeet/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/iamindrajeet/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamindrajeet/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/iamindrajeet/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/iamindrajeet/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -370,6 +371,7 @@ This repo contains leetcode problems and it's solution
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/iamindrajeet/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1046-max-consecutive-ones-iii](https://github.com/iamindrajeet/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Memoization
@@ -491,6 +493,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamindrajeet/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/iamindrajeet/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/iamindrajeet/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/iamindrajeet/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamindrajeet/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -502,6 +505,7 @@ This repo contains leetcode problems and it's solution
 | [0238-product-of-array-except-self](https://github.com/iamindrajeet/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/iamindrajeet/leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/iamindrajeet/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/iamindrajeet/leetcode/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/iamindrajeet/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/iamindrajeet/leetcode/tree/master/1833-find-the-highest-altitude) |
