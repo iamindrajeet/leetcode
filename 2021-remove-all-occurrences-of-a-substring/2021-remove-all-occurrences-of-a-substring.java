@@ -108,14 +108,10 @@ Although the algorithm does not explicitly use additional data structures, each 
  * involves an O(m) comparison for potential matches. Since this check can occur
  * for each character in s, the worst-case time complexity is O(n⋅m).
  * 
- * Space complexity: O(n+m)
+ * Space complexity: O(n)
  * 
  * The stack stores up to O(n) characters in the worst case (e.g., when no part
- * substrings are removed). The temporary stack temp in the checkMatch function
- * also requires O(n) space. Additionally, the potentialMatch string temporarily
- * stores up to O(m) characters during each iteration. So, the total space
- * complexity is O(n) (stacks) + O(m) (temporary potentialMatch), which
- * simplifies to O(n+m).
+ * substrings are removed).
  * 
  */
 class Solution {
