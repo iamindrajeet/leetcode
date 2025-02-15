@@ -32,19 +32,8 @@
 //     - If a valid partition is found, return true.
 // 3. If no valid partition exists, return false.
 
-// Time Complexity Analysis (TC)
-// Let’s analyze the worst-case scenario.
-
-// For each number num, we check its square, which has at most 2 * log(n) digits.
-// The recursive function canPartition() explores all partitions of this string.
-// In the worst case, the number of partitions is O(2^d), where d = 2 * log(n).
-// The total complexity is approximately O(n * 2^(2 log(n))), which grows exponentially.
-// Practical Complexity Reduction:
-// Since n is typically small (≤ 1000), this approach works within reasonable time limits.
-
-// Space Complexity Analysis (SC)
-// The recursion depth is at most 2 * log(n), leading to a space complexity of O(log(n)).
-// Other than recursion, we use constant extra space, making the overall space complexity O(log(n)).
+// T.C : O(n * 2^(log10(n^2)))
+// S.C : O(n * log10(n^2))
 // */
 
 // class Solution {
@@ -135,68 +124,105 @@ S.C : O(n * log10(n^2))
 
 */
 
+// class Solution {
+//     public int punishmentNumber(int n) {
+//         int punishmentNum = 0;
+
+//         // Iterate over numbers from 1 to n
+//         for (int num = 1; num <= n; num++) {
+//             int squareNum = num * num; // Compute the square of the number
+//             String stringNum = String.valueOf(squareNum); // Convert to string
+
+//             // Memoization array to store results of subproblems
+//             int[][] memo = new int[stringNum.length()][num + 1];
+//             for (int[] row : memo) {
+//                 Arrays.fill(row, -1); // Initialize memo array with -1 (uncomputed)
+//             }
+
+//             // If squareNum can be partitioned to sum up to num, add it to punishmentNum
+//             if (canPartition(stringNum, num, 0, 0, memo))
+//                 punishmentNum += squareNum;
+//         }
+//         return punishmentNum;
+//     }
+
+//     /**
+//      * Recursive function to check if we can partition the squared number string into parts
+//      * that sum up to the given number.
+//      *
+//      * @param stringNum The string representation of the squared number.
+//      * @param num       The original number whose square we are partitioning.
+//      * @param i         The current index in the string.
+//      * @param currSum   The sum of the partitions considered so far.
+//      * @param memo      Memoization table to store computed results.
+//      * @return True if a valid partition exists, False otherwise.
+//      */
+//     private boolean canPartition(String stringNum, int num, int i, int currSum, int[][] memo) {
+//         // Base case: If we have processed the whole string, check if sum equals num
+//         if (i == stringNum.length()) 
+//             return currSum == num;
+
+//         // Optimization: If current sum exceeds num, terminate this branch early
+//         if (currSum > num) 
+//             return false;
+
+//         // Check memoization table to avoid recomputation
+//         if (memo[i][currSum] != -1)
+//             return memo[i][currSum] == 1;
+
+//         boolean possible = false;
+        
+//         // Try forming numbers of different lengths starting from index i
+//         for (int j = i; j < stringNum.length(); j++) {
+//             // Extract substring and convert it into a number
+//             int leftNum = Integer.parseInt(stringNum.substring(i, j + 1));
+
+//             // Recur for the remaining part of the string
+//             if (canPartition(stringNum, num, j + 1, currSum + leftNum, memo)) {
+//                 possible = true;
+//                 break; // If found, no need to check further
+//             }
+//         }
+
+//         // Store the result in the memo table
+//         memo[i][currSum] = possible ? 1 : 0;
+//         return possible;
+//     }
+// }
+
+/*
+
+Approach : Recursion of Integers
+
+// T.C : O(n * 2^(log10(n^2)))
+// S.C : O(log10(n^2))
+*/
 class Solution {
-    public int punishmentNumber(int n) {
-        int punishmentNum = 0;
-
-        // Iterate over numbers from 1 to n
-        for (int num = 1; num <= n; num++) {
-            int squareNum = num * num; // Compute the square of the number
-            String stringNum = String.valueOf(squareNum); // Convert to string
-
-            // Memoization array to store results of subproblems
-            int[][] memo = new int[stringNum.length()][num + 1];
-            for (int[] row : memo) {
-                Arrays.fill(row, -1); // Initialize memo array with -1 (uncomputed)
-            }
-
-            // If squareNum can be partitioned to sum up to num, add it to punishmentNum
-            if (canPartition(stringNum, num, 0, 0, memo))
-                punishmentNum += squareNum;
+    public boolean check(int num, int currnum, int target) {
+        // Base case: If all digits are processed, check if sum equals the target number
+        if (num == 0) {
+            return currnum == target;
         }
-        return punishmentNum;
+        
+        // Try extracting last 1, 2, 3, or 4 digits and add to current sum
+        return check(num / 10, currnum + num % 10, target) || 
+               check(num / 100, currnum + num % 100, target) || 
+               check(num / 1000, currnum + num % 1000, target) || 
+               check(num / 10000, currnum + num % 10000, target);
     }
 
-    /**
-     * Recursive function to check if we can partition the squared number string into parts
-     * that sum up to the given number.
-     *
-     * @param stringNum The string representation of the squared number.
-     * @param num       The original number whose square we are partitioning.
-     * @param i         The current index in the string.
-     * @param currSum   The sum of the partitions considered so far.
-     * @param memo      Memoization table to store computed results.
-     * @return True if a valid partition exists, False otherwise.
-     */
-    private boolean canPartition(String stringNum, int num, int i, int currSum, int[][] memo) {
-        // Base case: If we have processed the whole string, check if sum equals num
-        if (i == stringNum.length()) 
-            return currSum == num;
-
-        // Optimization: If current sum exceeds num, terminate this branch early
-        if (currSum > num) 
-            return false;
-
-        // Check memoization table to avoid recomputation
-        if (memo[i][currSum] != -1)
-            return memo[i][currSum] == 1;
-
-        boolean possible = false;
+    public int punishmentNumber(int n) {
+        int punishmentNum = 0;
         
-        // Try forming numbers of different lengths starting from index i
-        for (int j = i; j < stringNum.length(); j++) {
-            // Extract substring and convert it into a number
-            int leftNum = Integer.parseInt(stringNum.substring(i, j + 1));
-
-            // Recur for the remaining part of the string
-            if (canPartition(stringNum, num, j + 1, currSum + leftNum, memo)) {
-                possible = true;
-                break; // If found, no need to check further
+        // Iterate over numbers from 1 to n
+        for (int currentNum = 1; currentNum <= n; currentNum++) {
+            int squareNum = currentNum * currentNum; // Compute square
+            
+            // Check if the square can be partitioned to sum up to the original number
+            if (check(squareNum, 0, currentNum)) {
+                punishmentNum += squareNum; // Add valid squares
             }
         }
-
-        // Store the result in the memo table
-        memo[i][currSum] = possible ? 1 : 0;
-        return possible;
+        return punishmentNum;
     }
 }
