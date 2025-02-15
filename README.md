@@ -292,6 +292,7 @@ This repo contains leetcode problems and it's solution
 | [2155-find-missing-observations](https://github.com/iamindrajeet/leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/iamindrajeet/leetcode/tree/master/2645-pass-the-pillow) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/iamindrajeet/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
@@ -599,6 +600,7 @@ This repo contains leetcode problems and it's solution
 | [0039-combination-sum](https://github.com/iamindrajeet/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/iamindrajeet/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0078-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/iamindrajeet/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Merge Sort
 |  |
 | ------- |
