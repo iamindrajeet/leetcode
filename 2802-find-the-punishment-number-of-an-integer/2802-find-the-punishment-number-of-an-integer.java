@@ -129,16 +129,9 @@ Algorithm:
 4. Return punishmentNum after iterating all numbers.
 
 Time & Space Complexity Analysis
-
-Time Complexity:
-    - Each (i, currSum) state is computed at most once due to memoization.
-    - The number of unique states is O(n × log(n)), where:
-        - n is the given number.
-        - log(n) is the max length of the squared number string.
-    - Overall Complexity: O(n × log(n))
-
-Space Complexity:
-    - O(n × log(n)) for the memoization table.
+T.C : O(n * 2^(log10(n^2))) --> log10(n^2) is the no of digits after squaring (num * num) and 2 beacuse at every step we 
+have two choice
+S.C : O(n * log10(n^2))
 
 */
 
