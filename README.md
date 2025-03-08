@@ -433,6 +433,7 @@ This repo contains leetcode problems and it's solution
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iamindrajeet/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/iamindrajeet/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/iamindrajeet/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/iamindrajeet/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/iamindrajeet/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamindrajeet/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -510,6 +511,7 @@ This repo contains leetcode problems and it's solution
 | [1430-find-the-k-beauty-of-a-number](https://github.com/iamindrajeet/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamindrajeet/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/iamindrajeet/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/iamindrajeet/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamindrajeet/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
