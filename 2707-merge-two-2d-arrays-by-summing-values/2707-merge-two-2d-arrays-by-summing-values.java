@@ -1,16 +1,27 @@
 /**
 Time Complexity:
-Inserting Elements into TreeMap
+1. Inserting Elements into TreeMap
+    - Each insertion in a TreeMap takes O(log N) time due to the underlying Red-Black Tree.
+    - We are inserting nums1.length + nums2.length elements.
+    - Total Time: O((m+n)log(m+n)), where m and n are the sizes of nums1 and nums2.
 
-Each insertion in a TreeMap takes O(log N) time due to the underlying Red-Black Tree.
-We are inserting nums1.length + nums2.length elements.
-Total Time: O((m+n)log(m+n)), where m and n are the sizes of nums1 and nums2.
-Iterating Over TreeMap to Construct the Result
+2. Iterating Over TreeMap to Construct the Result
+    - Extracting elements from TreeMap takes O(m + n) time.
 
-Extracting elements from TreeMap takes O(m + n) time.
 Overall Time Complexity: O((m+n)log(m+n))
 The dominant term is O(log N) per insertion, so the sorting-like behavior makes it slightly slower than a linear solution.
-S.C = O(n1 + n2)
+
+Space Complexity:
+1. TreeMap Storage:
+    - In the worst case, all elements have unique keys.
+    - The TreeMap will store O(m + n) elements.
+2. Result Array:
+    - We store the same number of unique elements in a 2D array of size O(m + n).
+Overall Space Complexity: O(m+n)
+Extra space beyond input: Only the TreeMap and result array contribute.
+
+Time Complexity	    - O((m + n) log (m + n))
+Space Complexity	- O(m + n)
 
 */
 class Solution {
