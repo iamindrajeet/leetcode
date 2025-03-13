@@ -111,6 +111,7 @@ This repo contains leetcode problems and it's solution
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamindrajeet/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/iamindrajeet/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamindrajeet/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamindrajeet/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/iamindrajeet/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -142,6 +143,7 @@ This repo contains leetcode problems and it's solution
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/iamindrajeet/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamindrajeet/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -249,6 +251,7 @@ This repo contains leetcode problems and it's solution
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamindrajeet/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/iamindrajeet/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamindrajeet/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamindrajeet/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
