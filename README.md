@@ -74,6 +74,7 @@ This repo contains leetcode problems and it's solution
 | [1256-rank-transform-of-an-array](https://github.com/iamindrajeet/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/iamindrajeet/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/iamindrajeet/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/iamindrajeet/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -396,6 +397,7 @@ This repo contains leetcode problems and it's solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/iamindrajeet/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamindrajeet/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/iamindrajeet/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamindrajeet/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
