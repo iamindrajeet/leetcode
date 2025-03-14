@@ -65,8 +65,6 @@ class Solution {
         for(int candy : candies) {
             sumOfCandies += candy;
         }
-        System.out.println(sumOfCandies);
-
         // If total candies are less than k, it's not possible to distribute at least 1 candy per child
         if (sumOfCandies < k)
             return 0;
