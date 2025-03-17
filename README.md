@@ -499,6 +499,7 @@ This repo contains leetcode problems and it's solution
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iamindrajeet/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamindrajeet/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamindrajeet/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -573,6 +574,7 @@ This repo contains leetcode problems and it's solution
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/iamindrajeet/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/iamindrajeet/leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
