@@ -429,6 +429,7 @@ This repo contains leetcode problems and it's solution
 | [0171-excel-sheet-column-number](https://github.com/iamindrajeet/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0273-integer-to-english-words](https://github.com/iamindrajeet/leetcode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/iamindrajeet/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/iamindrajeet/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/iamindrajeet/leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/iamindrajeet/leetcode/tree/master/0539-minimum-time-difference) |
@@ -579,6 +580,7 @@ This repo contains leetcode problems and it's solution
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamindrajeet/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0273-integer-to-english-words](https://github.com/iamindrajeet/leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/iamindrajeet/leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -586,6 +588,7 @@ This repo contains leetcode problems and it's solution
 | [0020-valid-parentheses](https://github.com/iamindrajeet/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iamindrajeet/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/iamindrajeet/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/iamindrajeet/leetcode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/iamindrajeet/leetcode/tree/master/0739-daily-temperatures) |
