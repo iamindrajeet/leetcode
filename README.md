@@ -122,6 +122,7 @@ This repo contains leetcode problems and it's solution
 | [2792-neighboring-bitwise-xor](https://github.com/iamindrajeet/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/iamindrajeet/leetcode/tree/master/2846-robot-collisions) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamindrajeet/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/iamindrajeet/leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/iamindrajeet/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iamindrajeet/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/iamindrajeet/leetcode/tree/master/3429-special-array-i) |
@@ -176,6 +177,7 @@ This repo contains leetcode problems and it's solution
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iamindrajeet/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/iamindrajeet/leetcode/tree/master/2846-robot-collisions) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/iamindrajeet/leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -195,6 +197,7 @@ This repo contains leetcode problems and it's solution
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iamindrajeet/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/iamindrajeet/leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
