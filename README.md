@@ -111,6 +111,7 @@ This repo contains leetcode problems and it's solution
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iamindrajeet/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/iamindrajeet/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamindrajeet/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/iamindrajeet/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/iamindrajeet/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -176,6 +177,7 @@ This repo contains leetcode problems and it's solution
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iamindrajeet/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/iamindrajeet/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2846-robot-collisions](https://github.com/iamindrajeet/leetcode/tree/master/2846-robot-collisions) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/iamindrajeet/leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -197,6 +199,7 @@ This repo contains leetcode problems and it's solution
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iamindrajeet/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/iamindrajeet/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/iamindrajeet/leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -407,6 +410,7 @@ This repo contains leetcode problems and it's solution
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/iamindrajeet/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/iamindrajeet/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iamindrajeet/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/iamindrajeet/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Memoization
