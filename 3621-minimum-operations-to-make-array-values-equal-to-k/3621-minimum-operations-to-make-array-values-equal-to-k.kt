@@ -16,7 +16,7 @@ Time complexity: O(n).
 We only need to traverse nums once, and the time complexity of adding elements to the hash map is O(1), so the overall time complexity is O(n).
 
 Space complexity: O(n).
-The space complexity of using a hash map is O(n).
+The space complexity of using a set is O(n).
 */
 class Solution {
     fun minOperations(nums: IntArray, k: Int): Int {
