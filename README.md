@@ -86,6 +86,7 @@ This repo contains leetcode problems and it's solution
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/iamindrajeet/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamindrajeet/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/iamindrajeet/leetcode/tree/master/1656-count-good-triplets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamindrajeet/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamindrajeet/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -737,5 +738,6 @@ This repo contains leetcode problems and it's solution
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/iamindrajeet/leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/iamindrajeet/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
