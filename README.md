@@ -323,6 +323,7 @@ This repo contains leetcode problems and it's solution
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamindrajeet/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/iamindrajeet/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/iamindrajeet/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/iamindrajeet/leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamindrajeet/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -603,6 +604,7 @@ This repo contains leetcode problems and it's solution
 | [0273-integer-to-english-words](https://github.com/iamindrajeet/leetcode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/iamindrajeet/leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/iamindrajeet/leetcode/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
