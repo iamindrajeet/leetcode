@@ -62,6 +62,7 @@ This repo contains leetcode problems and it's solution
 | [0485-max-consecutive-ones](https://github.com/iamindrajeet/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/iamindrajeet/leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/iamindrajeet/leetcode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/iamindrajeet/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/iamindrajeet/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -435,6 +436,7 @@ This repo contains leetcode problems and it's solution
 | [0300-longest-increasing-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/iamindrajeet/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamindrajeet/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/iamindrajeet/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
