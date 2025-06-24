@@ -1,26 +1,28 @@
-/**
-    * Time Complexity: O(n)
-    * - We traverse the array once, making the overall time complexity O(n), 
-    *   where n is the number of elements in the array.
-    *
-    * Space Complexity: O(1)
-    * - We are using a constant amount of extra space (only integer variable k), 
-    *   so the space complexity is O(1).
-*/
 class Solution {
     public void moveZeroes(int[] nums) {
-        int k = 0; // Pointer to place non-zero elements.
-        
-        // Traverse the array to move non-zero elements to the front.
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) { // Check if the current element is non-zero.
-                nums[k++] = nums[i]; // Place the non-zero element at index k and increment k.
+        int left = 0, right = 0, len = nums.length;
+
+        // Use two pointers: left tracks the position to place the next non-zero element,
+        // right traverses the array
+        while (right < len) {
+            if (nums[right] == 0) {
+                // If current element is zero, just move the right pointer
+                right++;
+            } else {
+                // If current element is non-zero, swap it with the element at left pointer
+                // This effectively moves the non-zero to the front
+                swap(nums, left, right);
+                // Move both pointers forward
+                left++;
+                right++;
             }
         }
+    }
 
-        // Fill the remaining positions with zeros.
-        while (k < nums.length) {
-            nums[k++] = 0; // Place a zero at index k and increment k.
-        }
+    // Utility method to swap two elements in the array
+    private void swap(int[] nums, int a, int b) {
+        int temp = nums[a];
+        nums[a] = nums[b];
+        nums[b] = temp;
     }
 }
