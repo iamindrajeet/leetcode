@@ -359,6 +359,7 @@ This repo contains leetcode problems and it's solution
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/iamindrajeet/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamindrajeet/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamindrajeet/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -585,6 +586,7 @@ This repo contains leetcode problems and it's solution
 | [2846-robot-collisions](https://github.com/iamindrajeet/leetcode/tree/master/2846-robot-collisions) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iamindrajeet/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/iamindrajeet/leetcode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamindrajeet/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -646,6 +648,7 @@ This repo contains leetcode problems and it's solution
 | [0394-decode-string](https://github.com/iamindrajeet/leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/iamindrajeet/leetcode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamindrajeet/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -751,6 +754,7 @@ This repo contains leetcode problems and it's solution
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iamindrajeet/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/iamindrajeet/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamindrajeet/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
 |  |
 | ------- |
