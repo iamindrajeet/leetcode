@@ -103,6 +103,7 @@ This repo contains leetcode problems and it's solution
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamindrajeet/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/iamindrajeet/leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/iamindrajeet/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iamindrajeet/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/iamindrajeet/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iamindrajeet/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iamindrajeet/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -386,6 +387,7 @@ This repo contains leetcode problems and it's solution
 | [1511-count-number-of-teams](https://github.com/iamindrajeet/leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamindrajeet/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/iamindrajeet/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iamindrajeet/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
