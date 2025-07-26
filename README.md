@@ -53,6 +53,7 @@ This repo contains leetcode problems and it's solution
 | [0209-minimum-size-subarray-sum](https://github.com/iamindrajeet/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iamindrajeet/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/iamindrajeet/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/iamindrajeet/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/iamindrajeet/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
@@ -183,6 +184,7 @@ This repo contains leetcode problems and it's solution
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iamindrajeet/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/iamindrajeet/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/iamindrajeet/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/iamindrajeet/leetcode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -265,6 +267,7 @@ This repo contains leetcode problems and it's solution
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamindrajeet/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/iamindrajeet/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/iamindrajeet/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -317,6 +320,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/iamindrajeet/leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iamindrajeet/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
