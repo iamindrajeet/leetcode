@@ -20,32 +20,29 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
         // List to store merged intervals
-        List<int[]> merged = new ArrayList<>();
+        List<int[]> mergedIntervalList = new ArrayList<>();
         
-        // Sort intervals by the start time
+        // Sort intervals by start time
         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
         
-        // Initialize start and end with the first interval
-        int start = intervals[0][0], end = intervals[0][1];
-        
-        // Iterate through each interval
         for (int[] interval : intervals) {
-            // If intervals overlap, merge them by updating the end time
-            if (interval[0] <= end) {
-                end = Math.max(end, interval[1]);
+            // If list is empty OR current interval does not overlap
+            if (mergedIntervalList.isEmpty() || interval[0] > mergedIntervalList.get(mergedIntervalList.size() - 1)[1]) {
+                mergedIntervalList.add(interval);
             } else {
-                // If they don't overlap, add the current merged interval to the list
-                merged.add(new int[] {start, end});
-                // Update start and end to the current interval
-                start = interval[0];
-                end = interval[1];
+                // Overlap → merge with the last interval by extending the end
+                int[] lastInterval = mergedIntervalList.get(mergedIntervalList.size() - 1);
+                lastInterval[1] = Math.max(lastInterval[1], interval[1]);
             }
         }
         
-        // Add the last merged interval to the list
-        merged.add(new int[] {start, end});
+        // Convert merged list into 2D array
+        int[][] result = new int[mergedIntervalList.size()][2];
+        int i = 0;
+        for (int[] interval : mergedIntervalList) {
+            result[i++] = interval;
+        }
         
-        // Convert the list of intervals to an array and return
-        return merged.toArray(new int[merged.size()][]);
+        return result;
     }
 }
