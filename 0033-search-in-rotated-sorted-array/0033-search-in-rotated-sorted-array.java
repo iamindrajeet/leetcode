@@ -1,38 +1,39 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int len = nums.length;
-        int left = 0, right = len - 1;
+        int left = 0, right = nums.length - 1;
 
-        // Perform binary search
         while (left <= right) {
-            // Calculate the middle index to avoid overflow
             int mid = left + (right - left) / 2;
 
-            // If the middle element is the target, return its index
+            // Case 1: If the mid element is the target, return its index
             if (nums[mid] == target)
                 return mid;
 
-            // Check if the left half of the array is sorted
+            // Case 2: Check if the left half (from left to mid) is sorted
             if (nums[left] <= nums[mid]) {
-                // If the target is in the sorted left half, adjust the right boundary
-                if (nums[left] <= target && target <= nums[mid])
+                // Now check if the target lies within this sorted left half
+                if (nums[left] <= target && target < nums[mid]) {
+                    // Target is in left half, eliminate right half
                     right = mid - 1;
-                // Otherwise, adjust the left boundary
-                else
+                } else {
+                    // Target is not in left half, eliminate left half
                     left = mid + 1;
-            }
-            // If the right half of the array is sorted
+                }
+            } 
+            // Case 3: Otherwise, the right half (from mid to right) must be sorted
             else {
-                // If the target is in the sorted right half, adjust the left boundary
-                if (nums[mid] <= target && target <= nums[right])
+                // Check if the target lies within the sorted right half
+                if (nums[mid] < target && target <= nums[right]) {
+                    // Target is in right half, eliminate left half
                     left = mid + 1;
-                // Otherwise, adjust the right boundary
-                else 
+                } else {
+                    // Target is not in right half, eliminate right half
                     right = mid - 1;
+                }
             }
         }
 
-        // If the target is not found, return -1
+        // If we reach here, target is not found
         return -1;
     }
 }
