@@ -76,6 +76,7 @@ This repo contains leetcode problems and it's solution
 | [0739-daily-temperatures](https://github.com/iamindrajeet/leetcode/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/iamindrajeet/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/iamindrajeet/leetcode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/iamindrajeet/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/iamindrajeet/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/iamindrajeet/leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/iamindrajeet/leetcode/tree/master/0952-word-subsets) |
@@ -463,6 +464,7 @@ This repo contains leetcode problems and it's solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/iamindrajeet/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/iamindrajeet/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamindrajeet/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/iamindrajeet/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/iamindrajeet/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
