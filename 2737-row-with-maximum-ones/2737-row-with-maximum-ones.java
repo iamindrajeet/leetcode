@@ -1,4 +1,43 @@
 /*
+Time complexity = O(m * n)
+*/
+class Solution {
+
+    // Helper method to count number of 1s in a row
+    public int countOnes(int[] nums) {
+        int count = 0;
+        // Traverse through the row and count how many 1s are present
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 1) count++;
+        }
+        return count;
+    }
+
+    // Main method to find the row with maximum number of 1s
+    public int[] rowAndMaximumOnes(int[][] mat) {
+        int m = mat.length;     // number of rows
+        int n = mat[0].length;  // number of columns
+
+        int row = 0;  // to store the index of row with maximum 1s
+        int ans = 0;  // to store the maximum number of 1s found so far
+
+        // Iterate through each row
+        for (int i = 0; i < m; i++) {
+            int count = countOnes(mat[i]); // Count 1s in the current row
+
+            // If current row has more 1s than previous max, update result
+            if (ans < count) {
+                ans = count;
+                row = i;
+            }
+        }
+
+        // Return result as [row index, number of 1s]
+        return new int[]{row, ans};
+    }
+}
+
+/*
 
 Time complexity : 
 1. Sorting each row
@@ -18,50 +57,50 @@ Putting it all together:
 Time = O(m * n log n) [for sorting] + O(m * log n) [for binary search]
      = O(m * n log n)
 */
-class Solution {
-    public int[] rowAndMaximumOnes(int[][] mat) {
-        for(int[] row : mat)
-            Arrays.sort(row);
-        // result[0] = index of row with max number of 1s
-        // result[1] = number of 1s in that row
-        int[] result = new int[2];
-        int maxNoOf1s = -1;
+// class Solution {
+//     public int[] rowAndMaximumOnes(int[][] mat) {
+//         for(int[] row : mat)
+//             Arrays.sort(row);
+//         // result[0] = index of row with max number of 1s
+//         // result[1] = number of 1s in that row
+//         int[] result = new int[2];
+//         int maxNoOf1s = -1;
 
-        for (int i = 0; i < mat.length; i++) {
-            int idx = findFirstIndexOf1(mat[i]);
+//         for (int i = 0; i < mat.length; i++) {
+//             int idx = findFirstIndexOf1(mat[i]);
 
-            // If row contains at least one '1'
-            if (idx != -1) {
-                int noOf1s = mat[i].length - idx;
+//             // If row contains at least one '1'
+//             if (idx != -1) {
+//                 int noOf1s = mat[i].length - idx;
 
-                // Update result if current row has more 1s than previously found
-                if (noOf1s > maxNoOf1s) {
-                    maxNoOf1s = noOf1s;
-                    result[0] = i;
-                    result[1] = noOf1s;
-                }
-            }
-        }
+//                 // Update result if current row has more 1s than previously found
+//                 if (noOf1s > maxNoOf1s) {
+//                     maxNoOf1s = noOf1s;
+//                     result[0] = i;
+//                     result[1] = noOf1s;
+//                 }
+//             }
+//         }
 
-        return result;
-    }
+//         return result;
+//     }
 
-    // Binary search to find the first occurrence of 1 in a sorted binary row
-    private int findFirstIndexOf1(int[] row) {
-        int left = 0, right = row.length - 1;
-        int idx = -1;
+//     // Binary search to find the first occurrence of 1 in a sorted binary row
+//     private int findFirstIndexOf1(int[] row) {
+//         int left = 0, right = row.length - 1;
+//         int idx = -1;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+//         while (left <= right) {
+//             int mid = left + (right - left) / 2;
 
-            if (row[mid] == 1) {
-                idx = mid;        // Potential first 1 found
-                right = mid - 1;  // Search left half for earlier 1s
-            } else {
-                left = mid + 1;   // Search right half
-            }
-        }
+//             if (row[mid] == 1) {
+//                 idx = mid;        // Potential first 1 found
+//                 right = mid - 1;  // Search left half for earlier 1s
+//             } else {
+//                 left = mid + 1;   // Search right half
+//             }
+//         }
 
-        return idx; // Returns -1 if no 1 is found
-    }
-}
+//         return idx; // Returns -1 if no 1 is found
+//     }
+// }
