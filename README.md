@@ -145,6 +145,7 @@ This repo contains leetcode problems and it's solution
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iamindrajeet/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iamindrajeet/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/iamindrajeet/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2737-row-with-maximum-ones](https://github.com/iamindrajeet/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iamindrajeet/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/iamindrajeet/leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -575,6 +576,7 @@ This repo contains leetcode problems and it's solution
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamindrajeet/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/iamindrajeet/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/iamindrajeet/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2737-row-with-maximum-ones](https://github.com/iamindrajeet/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/iamindrajeet/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamindrajeet/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
