@@ -281,6 +281,7 @@ This repo contains leetcode problems and it's solution
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/iamindrajeet/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/iamindrajeet/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamindrajeet/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
@@ -514,6 +515,7 @@ This repo contains leetcode problems and it's solution
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/iamindrajeet/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamindrajeet/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/iamindrajeet/leetcode/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/iamindrajeet/leetcode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/iamindrajeet/leetcode/tree/master/0394-decode-string) |
