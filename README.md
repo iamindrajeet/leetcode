@@ -239,6 +239,7 @@ This repo contains leetcode problems and it's solution
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/iamindrajeet/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/iamindrajeet/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/iamindrajeet/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iamindrajeet/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/iamindrajeet/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/iamindrajeet/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -371,6 +372,7 @@ This repo contains leetcode problems and it's solution
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamindrajeet/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/iamindrajeet/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/iamindrajeet/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/iamindrajeet/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/iamindrajeet/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/iamindrajeet/leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamindrajeet/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -535,6 +537,7 @@ This repo contains leetcode problems and it's solution
 | [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iamindrajeet/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iamindrajeet/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/iamindrajeet/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamindrajeet/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/iamindrajeet/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
