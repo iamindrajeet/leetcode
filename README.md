@@ -175,6 +175,7 @@ This repo contains leetcode problems and it's solution
 | [0042-trapping-rain-water](https://github.com/iamindrajeet/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/iamindrajeet/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iamindrajeet/leetcode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/iamindrajeet/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamindrajeet/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/iamindrajeet/leetcode/tree/master/0189-rotate-array) |
@@ -280,6 +281,7 @@ This repo contains leetcode problems and it's solution
 | [0073-set-matrix-zeroes](https://github.com/iamindrajeet/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/iamindrajeet/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/iamindrajeet/leetcode/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/iamindrajeet/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/iamindrajeet/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/iamindrajeet/leetcode/tree/master/0205-isomorphic-strings) |
@@ -609,6 +611,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamindrajeet/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/iamindrajeet/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamindrajeet/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamindrajeet/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
