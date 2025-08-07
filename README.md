@@ -303,6 +303,7 @@ This repo contains leetcode problems and it's solution
 | [1510-find-lucky-integer-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/iamindrajeet/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/iamindrajeet/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamindrajeet/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/iamindrajeet/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -343,6 +344,7 @@ This repo contains leetcode problems and it's solution
 | [1396-count-servers-that-communicate](https://github.com/iamindrajeet/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/iamindrajeet/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/iamindrajeet/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -536,6 +538,7 @@ This repo contains leetcode problems and it's solution
 | [1720-crawler-log-folder](https://github.com/iamindrajeet/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/iamindrajeet/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/iamindrajeet/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/iamindrajeet/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iamindrajeet/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iamindrajeet/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
