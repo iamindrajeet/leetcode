@@ -615,6 +615,7 @@ This repo contains leetcode problems and it's solution
 | [0142-linked-list-cycle-ii](https://github.com/iamindrajeet/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamindrajeet/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamindrajeet/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
