@@ -1,3 +1,20 @@
+/**
+
+✅ Time Complexity: O(2^n)
+The code builds all strings of length n made of '0' and '1', but it avoids two '0's in a row.
+
+Still, it tries both '1' and '0' at most at each step, so in the worst case, it makes around 2^n recursive calls.
+
+So the time it takes grows exponentially with n.
+
+✅ Space Complexity: O(n * 2^n)
+The function stores all valid strings in a list. There are about 2^n valid strings (a bit fewer because of the no-double-zero rule).
+
+Each string has length up to n.
+
+So total space needed to store the results is around n * 2^n.
+
+*/
 class Solution {
     public List<String> validStrings(int n) {
         List<String> result = new ArrayList<>();
