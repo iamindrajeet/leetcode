@@ -1,55 +1,54 @@
-/*
-1. Intuition and Logic:
+/**
+✅ Time Complexity: O(2^n)
+For each number, you have two choices: include or exclude it.
 
-- Intuition:
-    - The problem asks us to find all possible subsets (the power set) of a given array. This can be solved using backtracking, which explores all 
-    potential subsets by deciding whether to include each element or not.
-    - We can systematically explore subsets by using a recursive function that either includes or excludes each element in the current subset.
+So the total number of subsets is 2^n.
 
-- Logic:
-    Step 1: Start with an empty subset and recursively add elements from the array to build all possible subsets.
-    Step 2: For each element, we have two choices: include it in the current subset or exclude it.
-    Step 3: After making a choice, recurse on the remaining elements, and once all choices are made for a particular path, backtrack by removing 
-    the last element added to explore other possibilities.
+The function visits each subset once.
 
-2. Time Complexity (TC): O(n * 2^n)
-    There are 2^n possible subsets for an array of length n, as each element can either be included or excluded.
-    For each subset, copying the subset to add it to the list of results takes O(n) time.
+Building each subset takes up to n time (because of the new ArrayList<>(list) call), so technically it's O(n * 2^n) — but we usually just say:
 
-3. Space Complexity (SC): O(n)
-    The depth of the recursion is O(n), corresponding to the size of the array.
-    Additionally, the space for storing the current subset is also O(n).
+Time Complexity: O(2^n) — exponential growth with input size.
+
+✅ Space Complexity: O(n * 2^n)
+You store all 2^n subsets in the result list.
+
+Each subset can be up to size n.
+
+So:
+
+Space Complexity: O(n * 2^n)
 */
 
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        // List to store all possible subsets
-        List<List<Integer>> allPossibleSubsetsList = new ArrayList<>();
-        // Temporary list to store the current subset being explored
-        List<Integer> currSubsetList = new ArrayList<>();
-        // Sort the input array (not necessary in all cases, but can be useful)
-        Arrays.sort(nums);
-        // Start the recursive backtracking process
-        findAllPossibleSubsets(nums, 0, allPossibleSubsetsList, currSubsetList);
-        return allPossibleSubsetsList;
+        // This list will store one possible subset at a time
+        List<Integer> list = new ArrayList<>();
+
+        // This is the final result that will store all subsets
+        List<List<Integer>> result = new ArrayList<>();
+
+        // Start the recursive function from index 0
+        solve(nums, 0, list, result);
+
+        return result;
     }
 
-    private void findAllPossibleSubsets(int[] nums, int idx, List<List<Integer>> allPossibleSubsetsList, List<Integer> currSubsetList) {
-        // Add the current subset (a snapshot of currSubsetList) to the list of all subsets
-        allPossibleSubsetsList.add(new ArrayList<>(currSubsetList));
-
-        // Base case: if we have considered all elements, return
-        if (idx == nums.length)
+    private void solve(int[] nums, int idx, List<Integer> list, List<List<Integer>> result) {
+        // Base case: if we've considered all elements
+        if (idx == nums.length) {
+            result.add(new ArrayList<>(list));
             return;
-
-        // Iterate over the elements starting from index 'idx'
-        for (int i = idx; i < nums.length; i++) {
-            // Include nums[i] in the current subset
-            currSubsetList.add(nums[i]);
-            // Recursively explore further subsets including nums[i]
-            findAllPossibleSubsets(nums, i + 1, allPossibleSubsetsList, currSubsetList);
-            // Backtrack: remove the last element added to explore other possibilities
-            currSubsetList.remove(currSubsetList.size() - 1);
         }
+
+        // \U0001f449 TAKE the current element at index 'idx'
+        list.add(nums[idx]); // Add it to the current subset
+        solve(nums, idx + 1, list, result); // Recurse for the next index
+
+        // \U0001f519 BACKTRACK: remove the last element added
+        list.remove(list.size() - 1);
+
+        // \U0001f449 DO NOT TAKE the current element at index 'idx'
+        solve(nums, idx + 1, list, result); // Recurse for the next index without including nums[idx]
     }
 }
