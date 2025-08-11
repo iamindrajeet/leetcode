@@ -1,33 +1,33 @@
-
-
 class Solution {
+
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        // Resultant list to store all unique combinations
-        List<List<Integer>> allUnqiueCombinationsList = new ArrayList<>();
-
-        // To store each valid combination while recursion call
-        List<Integer> currCombinationList = new ArrayList<>();
-
-        findCombinationSum(candidates, allUnqiueCombinationsList, currCombinationList, 0, target);
-
-        return allUnqiueCombinationsList;
+        List<List<Integer>> result = new ArrayList<>();
+        solve(candidates, target, 0, new ArrayList<>(), result, 0);
+        return result;
     }
 
-    private void findCombinationSum(int[] candidates, List<List<Integer>> allUnqiueCombinationsList, List<Integer> currCombinationList, int i, int target){
-        if(target < 0 || i >= candidates.length)
-            return;
-        
-        if(target == 0){
-            allUnqiueCombinationsList.add(new ArrayList<>(currCombinationList));
+    private void solve(int[] candidates, int target, int idx, List<Integer> list, List<List<Integer>> result, int sum) {
+        // If we've gone through all candidates or the current sum exceeds target, stop recursion
+        if (idx == candidates.length || sum > target) return;
+
+        // If a valid combination is found (sum matches target), add a copy to the result
+        if (sum == target) {
+            result.add(new ArrayList<>(list));
             return;
         }
 
-        currCombinationList.add(candidates[i]);
-        findCombinationSum(candidates, allUnqiueCombinationsList, currCombinationList, i, target - candidates[i]);
+        // ---------------------
+        // Include current element
+        // ---------------------
+        list.add(candidates[idx]);  // Add the current number to the combination
+        // Keep idx same because elements can be reused
+        solve(candidates, target, idx, list, result, sum + candidates[idx]); 
+        list.remove(list.size() - 1);  // Backtrack: remove the last added number
 
-        currCombinationList.remove(currCombinationList.size() -1);
-        findCombinationSum(candidates, allUnqiueCombinationsList, currCombinationList, i + 1, target);
+        // ---------------------
+        // Exclude current element
+        // ---------------------
+        // Move to the next index and try without including current element
+        solve(candidates, target, idx + 1, list, result, sum);
     }
-
-
 }
