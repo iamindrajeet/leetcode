@@ -298,6 +298,7 @@ This repo contains leetcode problems and it's solution
 | [0264-ugly-number-ii](https://github.com/iamindrajeet/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/iamindrajeet/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamindrajeet/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0460-lfu-cache](https://github.com/iamindrajeet/leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/iamindrajeet/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamindrajeet/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0726-number-of-atoms](https://github.com/iamindrajeet/leetcode/tree/master/0726-number-of-atoms) |
@@ -627,6 +628,7 @@ This repo contains leetcode problems and it's solution
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/iamindrajeet/leetcode/tree/master/0460-lfu-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/iamindrajeet/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/iamindrajeet/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamindrajeet/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -810,6 +812,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/iamindrajeet/leetcode/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/iamindrajeet/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iamindrajeet/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/iamindrajeet/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -861,6 +864,7 @@ This repo contains leetcode problems and it's solution
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/iamindrajeet/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/iamindrajeet/leetcode/tree/master/0460-lfu-cache) |
 ## Enumeration
 |  |
 | ------- |
