@@ -403,6 +403,7 @@ This repo contains leetcode problems and it's solution
 | [2998-count-symmetric-integers](https://github.com/iamindrajeet/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/iamindrajeet/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/iamindrajeet/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/iamindrajeet/leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
