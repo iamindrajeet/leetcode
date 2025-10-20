@@ -127,6 +127,7 @@ This repo contains leetcode problems and it's solution
 | [1966-frequency-of-the-most-frequent-element](https://github.com/iamindrajeet/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/iamindrajeet/leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/iamindrajeet/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/iamindrajeet/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/iamindrajeet/leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/iamindrajeet/leetcode/tree/master/2155-find-missing-observations) |
@@ -570,6 +571,7 @@ This repo contains leetcode problems and it's solution
 | [2032-largest-odd-number-in-string](https://github.com/iamindrajeet/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamindrajeet/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/iamindrajeet/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/iamindrajeet/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/iamindrajeet/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/iamindrajeet/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iamindrajeet/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -657,6 +659,7 @@ This repo contains leetcode problems and it's solution
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/iamindrajeet/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iamindrajeet/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/iamindrajeet/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/iamindrajeet/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/iamindrajeet/leetcode/tree/master/2155-find-missing-observations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/iamindrajeet/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/iamindrajeet/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
