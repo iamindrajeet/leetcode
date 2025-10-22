@@ -233,6 +233,7 @@ This repo contains leetcode problems and it's solution
 | [2502-sort-the-people](https://github.com/iamindrajeet/leetcode/tree/master/2502-sort-the-people) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/iamindrajeet/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2846-robot-collisions](https://github.com/iamindrajeet/leetcode/tree/master/2846-robot-collisions) |
+| [2887-sort-vowels-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/iamindrajeet/leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -589,6 +590,7 @@ This repo contains leetcode problems and it's solution
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamindrajeet/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iamindrajeet/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/iamindrajeet/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2887-sort-vowels-in-a-string](https://github.com/iamindrajeet/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamindrajeet/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/iamindrajeet/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/iamindrajeet/leetcode/tree/master/3447-clear-digits) |
