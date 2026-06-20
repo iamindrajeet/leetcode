@@ -28,6 +28,7 @@ This repo contains leetcode problems and it's solution
 | [0054-spiral-matrix](https://github.com/iamindrajeet/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/iamindrajeet/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/iamindrajeet/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/iamindrajeet/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/iamindrajeet/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/iamindrajeet/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/iamindrajeet/leetcode/tree/master/0073-set-matrix-zeroes) |
